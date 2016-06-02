@@ -1,0 +1,2 @@
+C:\GeekyClients\BoatClients\BoatClients\BoatClients.WinPhone\BoatClients.WinPhone.csproj;neutral
+C:\GeekyClients\BoatClients\BoatClients\BoatClients\BoatClients.csproj;neutral

@@ -1,0 +1,2 @@
+C:\GeekyClients\BoatClients\BoatClients\BoatClients.Windows\BoatClients.Windows.csproj;neutral
+C:\GeekyClients\BoatClients\BoatClients\BoatClients\BoatClients.csproj;neutral
